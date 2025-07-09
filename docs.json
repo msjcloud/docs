@@ -35,16 +35,16 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Product Reference",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Marketplace",
             "pages": [
               "api-reference/introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Referrals Management",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
